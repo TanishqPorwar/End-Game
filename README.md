@@ -28,3 +28,5 @@ Important roles of DotHelp
 ## Team Members
 * Tanishq R Porwar - tanishqporwar22@gmail.com
 * Subhendu Maji - subhendu17620@gmail.com
+
+![Screenshot](screenshot.png)
