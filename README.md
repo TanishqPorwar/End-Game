@@ -18,12 +18,12 @@ Important roles of DotHelp
 *Evaluate students’ interests and abilities so that he can help them to develop academic and career goals.
 *DotHelp actually acts as an advocate for students’ well-being. They are a valuable resource for students educational advancement.
 
-### Language Used
+### Techonologies Used
 
-*HTML
-*CSS
-*BootStrap
-*Java Script
+* HTML
+* CSS
+* BootStrap
+* Java Script
 
 ## Team Members
 * Tanishq R Porwar - tanishqporwar22@gmail.com
