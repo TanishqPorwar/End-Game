@@ -87,8 +87,8 @@ body {
   
   ul.social-links li {
     position: relative;
-    top: 110px;
-    left: 55px;
+    top: 0px;
+    left: 0px;
     display: inline-block;
   }
   ul.social-links li a {
